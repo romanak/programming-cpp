@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Header files
+01-header-files/
