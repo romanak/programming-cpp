@@ -12,12 +12,12 @@ Instructions for Windows 10/11:
 ```json
 "label": "Build with GCC 12.2.0",
 "args": [
-				"-fdiagnostics-color=always",
-				"-g",
-				"-std=c++20",
-				"${file}",
-				"-o",
-				"${fileDirname}\\${fileBasenameNoExtension}.exe"
-			],
+	"-fdiagnostics-color=always",
+	"-g",
+	"-std=c++20",
+	"${file}",
+	"-o",
+	"${fileDirname}\\${fileBasenameNoExtension}.exe"
+],
 ```
-> Note: label is for your information only, use your current version of GCC.
+> Note: use your current version of GCC for the label.
