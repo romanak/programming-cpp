@@ -1,4 +1,4 @@
-// exercise 11: calculat the coins
+// exercise 11: calculate the value of coins
 
 #include "std_lib_facilities.h"
 
