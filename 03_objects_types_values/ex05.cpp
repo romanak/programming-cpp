@@ -1,4 +1,4 @@
-// exercise 5: floating-point comparison
+// Exercise 5: floating-point numbers comparison
 
 #include "std_lib_facilities.h"
 

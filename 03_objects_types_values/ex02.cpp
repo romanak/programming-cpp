@@ -1,4 +1,4 @@
-// exercise 2: convert miles to kilometers
+// Exercise 2: convert miles to kilometers
 
 #include "std_lib_facilities.h"
 

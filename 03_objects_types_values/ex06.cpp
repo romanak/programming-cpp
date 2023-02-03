@@ -1,15 +1,15 @@
-// exercise 7: order three strings
+// Exercise 6: print three integers in order
 
 #include "std_lib_facilities.h"
 
 int main() {
-    string val1 = " ";
-    string val2 = " ";
-    string val3 = " ";
-    cout << "Enter three string values: ";
+    int val1 = 0;
+    int val2 = 0;
+    int val3 = 0;
+    cout << "Enter three integer values: ";
     cin >> val1 >> val2 >> val3;
 
-    string temp = " ";
+    int temp = 0;
     bool ordered = false;
     while (ordered == false) {
         ordered = true;

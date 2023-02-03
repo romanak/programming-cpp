@@ -1,4 +1,4 @@
-// exercise 8: determine if an integer is odd or even
+// Exercise 8: determine if an integer is odd or even
 
 #include "std_lib_facilities.h"
 

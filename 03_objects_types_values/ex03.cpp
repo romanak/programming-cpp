@@ -1,4 +1,4 @@
-// exercise 3: legal and illigal variable names
+// Exercise 3: legal and illigal variable names
 
 #include "std_lib_facilities.h"
 

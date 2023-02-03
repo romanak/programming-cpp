@@ -1,4 +1,4 @@
-// exercise 9: convert a spelled-out number to a digit
+// Exercise 9: convert a spelled-out number to a digit
 
 #include "std_lib_facilities.h"
 

@@ -1,4 +1,4 @@
-// exercise 4: integer comparison
+// Exercise 4: integer numbers comparison
 
 #include "std_lib_facilities.h"
 

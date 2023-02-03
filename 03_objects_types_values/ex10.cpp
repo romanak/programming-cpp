@@ -1,4 +1,4 @@
-// exercise 10: perform an operation followed by two operands
+// Exercise 10: perform an operation followed by two operands
 
 #include "std_lib_facilities.h"
 
