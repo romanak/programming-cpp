@@ -1,4 +1,4 @@
-// simple program to exercise operators
+// simple program to exercise operators on double numbers
 
 #include "std_lib_facilities.h"
 
